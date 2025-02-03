@@ -94,11 +94,11 @@ input:checked + label .description {
     background-image: url('./assets/img1.png');
 }
 .card[for="c2"] {
-    background-image: url('./assets/img1.png');
+    background-image: url('./assets/img2.png');
 }
 .card[for="c3"] {
-    background-image: url('./assets/img1.png');
+    background-image: url('./assets/img3.png');
 }
 .card[for="c4"] {
-    background-image: url('./assets/img1.png');
+    background-image: url('./assets/img4.png');
 }
