@@ -18,4 +18,6 @@ This project is a sleek and visually appealing **image slider for web page** des
 ├── index.html       # Main HTML file
 ├── styles.css       # CSS file for styling
 └── assets/          # Folder for images and other assets
+```
 
+<!-- https://www.youtube.com/watch?v=2pZR-vfbcbo -->
